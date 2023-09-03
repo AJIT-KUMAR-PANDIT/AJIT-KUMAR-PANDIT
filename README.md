@@ -6,11 +6,11 @@
 - 💞️ I’m looking to collaborate on your projects...
 - 📫 You can reach me on https://ajitkumarpandit.nakprc.com
 
-@Connect with me [https://ajit-kumar-pandit.github.io/@connect/](https://ajit-kumar-pandit.github.io/@connect/)
+@Connect with me [@Connect with Github connect](https://ajit-kumar-pandit.github.io/@connect/)
                               or
-                  [https://linktr.ee/ajitkumarpandit](https://linktr.ee/ajitkumarpandit)
+                  [@Connect with LinkTree](https://linktr.ee/ajitkumarpandit)
                               or
-                [https://ajitkumarpandit.nakprc.com/@Connect](https://ajitkumarpandit.nakprc.com/@connect/)
+                [@Connect with Portfolio connect](https://ajitkumarpandit.nakprc.com/@connect/)
                             
 
 ## 🌐 Socials:
