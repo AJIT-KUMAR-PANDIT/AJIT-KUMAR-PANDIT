@@ -1,5 +1,10 @@
 # 💫 About Me:
-# Ajit Kumar Pandit<br><br>![Ajit Kumar Pandit](https://www.example.com/ajit-kumar-pandit.jpg)<br><br>Ajit Kumar Pandit is an accomplished Computer Science Engineer, entrepreneur, and technology influencer known for his outstanding contributions to the field of technology and web development.<br><br>## Summary<br><br>Ajit Kumar Pandit's journey into the world of technology began with a deep fascination for how technology works. He pursued his passion for computer science by enrolling in the prestigious Chandigarh University (CU), Gharuan, where he completed his Bachelor's degree in Computer Science Engineering. Prior to that, he acquired foundational knowledge in technology through a diploma program at the Nettur Technical Training Foundation (NTTF).<br><br>Ajit Kumar Pandit is renowned for his exceptional communication, problem-solving, and leadership skills. His ability to tackle challenges and explore new avenues within Computer Science Engineering reflects his dedication to continuous learning and growth.<br><br>Ajit Kumar Pandit's journey from a curious tech enthusiast to an accomplished Computer Science Engineer and entrepreneur serves as an inspiration to aspiring technologists and developers worldwide. His commitment to innovation, coupled with his technical acumen and leadership, has left an indelible mark on the tech industry. This article offers a glimpse into the life and achievements of a remarkable individual who continues to shape the future of technology.<br>
+
+- 👋 Hi, I’m @AJIT-KUMAR-PANDIT
+- 👀 I’m interested in technology
+- 🌱 Learning new every day...
+- 💞️ I’m looking to collaborate on your projects...
+- 📫 You can reach me on https://ajitkumarpandit.nakprc.com
 
 
 ## 🌐 Socials:
@@ -17,13 +22,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<--
-- 👋 Hi, I’m @AJIT-KUMAR-PANDIT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
+
 <!---
 AJIT-KUMAR-PANDIT/AJIT-KUMAR-PANDIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
