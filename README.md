@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m @AJIT-KUMAR-PANDIT
+- 👋 Hi, I’m @AJIT-KUMAR-PANDIT A Full Stack Developer
 - 👀 I’m interested in technology
 - 🌱 Learning new every day...
 - 💞️ I’m looking to collaborate on your projects...
