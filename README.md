@@ -20,6 +20,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
+# About
+Ajit Kumar Pandit, is a passionate Full Stack MERN Developer with a deep love for crafting innovative and user-friendly web applications with a blend of creativity and technical prowess, Ajit Kumar Pandit dedicated to building digital solutions that not only meet your needs but also exceed your expectations
+
+Education & Expertise
+
+His journey began with a deep curiosity about how technology works. He honed the skills at Chandigarh University (CU), Gharuan, where He earned the Bachelor's degree in Computer Science Engineering. His foundation in technology was established through a diploma program at the Nettur Technical Training Foundation (NTTF).
+
+Throughout his career, he specialized in Full Stack MERN Development, harnessing the power of MongoDB, Express.js, React.js, and Node.js to create cutting-edge, user-friendly web applications.
+
 
 <!---
 AJIT-KUMAR-PANDIT/AJIT-KUMAR-PANDIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
